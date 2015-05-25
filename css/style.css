@@ -26,9 +26,8 @@ h3 {
 	font-family: 'Droid Serif', serif;
 }
 hr {
-    border: 0;
-    height: 0; 
-    box-shadow: 0 0 1px 1px white;
+    border: 5;
+    height: 5; 
     margin: 10px 0px 10px 0px;
 }
 img.header { max-width:  100px; }
